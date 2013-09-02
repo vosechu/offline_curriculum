@@ -1,9 +1,14 @@
-## Day One Config Assigment
+## Machine configuration
 
-* Work with your table to setup machines.
-* Share your configuration settings with the table and the class via this wiki
+1. Xcode
+2. Command-line tools
+3. Homebrew
+4. Oh-my-zsh
+5. RVM
+6. Dropbox (all code lives in here!)
+7. Sublime Text 2
 
-##This to include in your setup
+## Things to include in your setup
 
 * [Xcode](https://developer.apple.com/xcode/) / CLI tools ( **Should be installed first, else bad things may happen** )
 * [homebrew](http://mxcl.github.io/homebrew/) - OSX package manager
@@ -24,7 +29,7 @@
 
 **If multiple choices, free options are marked with (*)**
 
-##Useful extras
+## Useful extras
 
 * A Clipboard Manager: [ClipMenu*](http://www.clipmenu.com), [Jumpcut](http://jumpcut.sourceforge.net)
 * Window Management software: [Moom](http://manytricks.com/moom), [Slate*](https://github.com/jigish/slate), or  [ShiftIt*](http://github.com/fikovnik/ShiftIt)
@@ -35,7 +40,7 @@
 
 **If multiple choices, free options are marked with (*)**
 
-##Class choices
+## Class choices
 
 * Natural scrolling?
 * LiveReload via app or sublime?
@@ -43,7 +48,7 @@
 * Zsh or Bash? Oh-my-zsh vs bash-it
 * How to share credit for code created during pairing session? (hitch gem?)
 
-##Wiki articles
+## Wiki articles
 
 * [[Migrating from Windows to mac]]
 * Installing Ruby
