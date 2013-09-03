@@ -4,6 +4,7 @@ Offline Curriculum
 Sometimes you just want to learn Ruby without going to a code school
 
 Stages
+1-7
 ------
 
 1. Things you should know
