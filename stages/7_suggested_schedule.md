@@ -1,15 +1,41 @@
 Suggested Schedule
 ==================
 
-After much reflection, I believe we should divide the curriculum into 3 major chunks and several more minor chunks.
+### Books
+Week 1-2: HTML and CSS by Duckett
+Week 3-4: Learn to Program by Chris Pine, Eloquent Ruby (Chapters 1-5, 9) 
+Week 5-11: Rails tutorial by Michael Hartl
+Week 12-13: Javascript book, not sure, eloquent javascript?
+Week 14-15: jQuery book, not sure, jQuery in Action? Headfirst jQuery?
+Week 16: Wrapup
 
-```
-(1 units): Command-line
-(1 units): HTML/CSS basics
-(4 units): Javascript
-(4 units): Ruby
-(6 units): Rails
-```
+### Daily Warmup Exercises
+Weeks 1-11: exercism.io for 30 minutes in ruby
+Weeks 12-15: exercism.io for 1 hr in ruby and javascript (30 min each)
+
+### Longer exercises
+Week 2: Redo bike website from Duckett without looking at source code
+Week 3: Wireframes of Portfolio
+Week 4: EventManager? http://tutorials.jumpstartlab.com/projects/eventmanager.html
+Week 8: Completed Portfolio (HTML/CSS, maybe some Sinatra)
+Week 11: Finish Rails tutorial
+Week 13: Javascript EventManager or something like that
+Week 15: Connect4 game or LightsOut game
+Week 16: Wrapup
+
+### Networking
+Weeks 1-4: Hack+Help or some weekly outing with a friend
+Weeks 5-8: Any event once a week with friend, collect business cards
+Weeks 9-12: Schedule informational interviews with Ruby shops in town, also one event each week
+Weeks 13-16: Meaningful contribution to public tech events each week. Organizers get jobs.
+
+### Things to ask
+How will you stay motivated for 16 weeks?
+How will you afford to study for 16 weeks without pay? (you really can't work during this time, if you do double or quadruple the duration of everything)
+How will we work together (we == you + friend)
+How will you get a job? How will you learn to network? How will you learn to interview?
+
+## Specific assessment criteria (am I done yet?)
 
 ### Command-line objectives
 
